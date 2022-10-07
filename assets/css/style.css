@@ -1,0 +1,38 @@
+header; main{
+    position: fixed;
+    text-align: left;
+    background-color: black;
+    color: white;
+    font-family:'Segoe UI', Verdana, sans-serif;
+    height: 50px;
+    width: 1900px;
+    display: inline;
+}
+
+header {
+    text-align: right;
+    color: rgb(148, 148, 148);
+
+}
+
+#nav-buttons {
+
+}
+
+#image {
+    background-color: black;
+}
+
+#image-1 {
+    width: 600px;
+    position: fixed;
+    left: 660px;
+    top: 200px;
+}
+
+.container {
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    border: 1900px solid black;
+    
